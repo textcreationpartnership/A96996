@@ -1,0 +1,407 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody prince, or A declaration of the most cruell practices of Prince Rupert, and the rest of the cavaliers, in fighting against God, and the true members of His Church. by I. W.</title>
+            <author>I. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96996</idno>
+            <idno type="STC">Wing W38</idno>
+            <idno type="STC">Thomason E99_14</idno>
+            <idno type="STC">ESTC R20350</idno>
+            <idno type="EEBO-CITATION">99863442</idno>
+            <idno type="PROQUEST">99863442</idno>
+            <idno type="VID">115644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115644)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody prince, or A declaration of the most cruell practices of Prince Rupert, and the rest of the cavaliers, in fighting against God, and the true members of His Church. by I. W.</title>
+                  <author>I. W.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 22".</note>
+                  <note>Frontispiece: representation of Prince Rupert, mounted, with "Brimingham [sic]" in flames, in background.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:115644:1"/>
+            <p>
+               <figure>
+                  <head>Dauentry Brimidghani
+The moſt Illuſtrious and High borne PRINCE RUPERT, PRINCE ELECTOR, Second Son to FREDERICK KING of BOHEMIA, GENERALL of the HORSE of His MAJESTIES ARMY, KNIGHT of the Noble Order of the GARTER.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:115644:1" rendition="simple:additions"/>
+            <p>THE BLOODY PRINCE, OR A DECLARATION OF THE Moſt cruell Practices of PRINCE RUPERT, and the reſt of the CAVALIERS, in fighting againſt GOD, and the true MEMBERS of His CHURCH.</p>
+            <p>By <hi>I. W.</hi>
+            </p>
+            <q>
+               <p>For the vile perſon will ſpeake villany, and his heart will worke iniquity to practiſe hypocriſie,</p>
+               <bibl>
+                  <hi>Eſay 32.6.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>It is a paſtime to fooles to doe miſchiefe,</p>
+               <bibl>
+                  <hi>Prov. 10.23.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>The tranſgreſſors ſhall be deſtroyed together, the end of the wicked ſhall be cut off,</p>
+               <bibl>
+                  <hi>Pſal. 37.38.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Finally, bretheren, pray for us, that the ward of the Lord may have free courſe, and he glorified even as it is with you, that us may be delivered from unreaſonable and wicked men: for all men have not faith,</p>
+               <bibl>
+                  <hi>2 Theſ. 3.1, 2.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, Printed MDCXLIII.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:115644:2"/>
+            <head>To the Bloody PRINCE, the PRINCE RUPERT, and all the bloody <hi>Prelates</hi> and <hi>Ca<g ref="char:EOLhyphen"/>valiers,</hi> now in a poſture of War againſt God and all good men, the Authour wiſheth either ſpeedy converſion, or ſuddain confuſion.</head>
+            <p>MOſt Bloody Prince, and all your bloody Prelates and Cava<g ref="char:EOLhyphen"/>liers: I have as you may ſee by this enſuing Diſcourſe, taken a little paines, to ſet that before your eyes in words, which by your actions you will not take notice of: namely, your unreaſonable wickedneſſe, and the doom that will follow: Adviſing you to take heed of perſiſting in ſuch diſtractive waies, as now you are in; which counſell of mine, if you ſhall take, you will finde it the beſt peece of worke that ever you tooke in hand; but if you refuſe and reject it, you will, I am ſure, repent one day, when it is too late.</p>
+            <p>
+               <hi>Farewell.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115644:2"/>
+            <head>Vngodly mens practices declare them to bee wicked.</head>
+            <epigraph>
+               <q>
+                  <bibl>Pſalme 52.</bibl>
+                  <p>And part of the firſt, and part of the fifth verſes: Or as the Hebrew and Latine read it, part of the third and part of the ſeventh verſes.</p>
+                  <p>
+                     <hi>Why boaſteſt thou in evill, or in miſchiefe, O mighty man? God ſhall deſtroy thee for ever,</hi> or, <hi>to perpetuity.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Pſalme, as the Title tells us, was pen'd upon the occaſion of <hi>Sauls</hi> and <hi>Doegs</hi> cruelty againſt the Prieſts and people of God: the one commanding, &amp; the other acting that wicked and miſchie<g ref="char:EOLhyphen"/>vous exploit. A wicked King commands a wicked worke, and as wicked a ſervant o<g ref="char:EOLhyphen"/>beyes him. And commonly it is ſo, that when there are wicked commanders, there wants not one ill inſtrument or other to execute their wicked deſires. Such a one was this man <hi>Dorg,</hi> an Edomite, or an Idumean, as the Greek here tranſlateth it, or a man of Adamah, a City of the tribe of <hi>Nepthalie,</hi> Joſua 19.36. And he it is to whom <hi>David</hi> here ſpeakes, <hi>Why doeſt thou boaſt thy ſelfe to doe miſchiefe,</hi> or, <hi>in doing miſchiefe</hi> (as it is in the
+<pb n="2" facs="tcp:115644:3"/>firſt verſe) <hi>God ſhill deſtroy thee for ever,</hi> as it is in the fifth verſe. God ſpeakes not onely to him, but to all o<g ref="char:EOLhyphen"/>ther <hi>Doegs</hi> in the world, even to thoſe of our times, which doe act their miſchievous deſignes daily againſt God, his truth, and people, and all that they think ſtand in any relation to God, or doe engage themſelves in any ſervice for him; whoſe practice I ſhall here lay open, and the doome that will follow: and therefore I have choſen part of theſe two verſes, in the unfolding of which, you may ſee the great <hi>Doeg</hi> of our Kingdome, Prince <hi>Rupert</hi> and all his bloudy followers, with their miſchievous practices, and alſo their wofull doom that will follow.</p>
+            <p>And firſt, I ſhall ſpeak of part of the firſt verſe, <hi>Why doſt thou boaſt thy ſelfe in evill, or in miſchiefe, O mighty man?</hi> And firſt, here you may obſerve a charge laid upon <hi>Doeg,</hi> and all ſuch bloudy ones that doe kill the Miniſters and people of God, they are charged with doing evill, or miſchief. Secondly, the manner of laying this charge upon them, it is by way of interrogation: Whey doe you doe it? The ſame expreſſion is uſed Pſal. 2.1. which ſhewes, that there is no reaſon to bee given for ſuch wicked actions, much leſſe for boaſting in them.</p>
+            <p>Or if you will, here is ſet forth the practice of <hi>Dug,</hi> and all wicked men like him:</p>
+            <p>Firſt, they doe evill.</p>
+            <p>Secondly, they doe it boaſtingly or joyfully.</p>
+            <p>Thirdly, here is ſet forth the unreaſonableneſſe of it, <hi>Why doſt thou boaſt thy ſelfe, O mighty man?</hi>
+            </p>
+            <p>And firſt of their practice, and from thence obſerve this point of Doctrine: That,</p>
+            <pb n="3" facs="tcp:115644:3"/>
+            <milestone type="tcpmilestone" unit="Doctrine" n="1"/>
+            <p>It is the practice of evill men to doe, evill things, of miſchievous men to doe miſchievous things.</p>
+            <p>Prov. 1.16. You ſhall find <hi>Solomon</hi> ſpeaking of ſuch, giving warning to his ſonne to take heed of them, ſay<g ref="char:EOLhyphen"/>ing: <hi>Cohibe pedem tuum à ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mit a illorum, quia ped bus ſuis ad malu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> concurrunt &amp; feſtinant ad effundendum ſangui<g ref="char:EOLhyphen"/>nem.</hi> They doe evill, and they make haſte to doe it; they ſhed blond, and fill themſelves with the ſpoyle of the ſhine. Such you ſhall finde alſo Pſalm 10.7.8.9.10. and 11. verſes: <hi>Execratione os ejus plenum eſt, fran<g ref="char:EOLhyphen"/>dibuſque &amp; dolo, ſubeſt lingue ej<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s maleſtia &amp; v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nit as: deſidet in ſpecu villarum in latebr is occ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſur is innocentem, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cuh ejus contr i defectum viribus deliteſcunt.</hi> His pra<g ref="char:EOLhyphen"/>ctice is to kill, and the wickedneſſe of his practice is, that he kills the innocent. Likewiſe Pſalm 94.6. <hi>Vidu<g ref="char:EOLhyphen"/>am &amp; peregrinum interficient, ac pupillos occident di<g ref="char:EOLhyphen"/>cent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s non reſpicit Iah, neque animadvertit Deus Iahakcbi.</hi> They kill the father leſſe and widow. And ſee their wic<g ref="char:EOLhyphen"/>ked carriage in it; God, ſay they, ſees not, the God of <hi>Iacob</hi> regards not. There is a pregnant place for this purpoſe, Eſay 32.6.7. verſes. <hi>Sed flagitioſns dicetur fla<g ref="char:EOLhyphen"/>gitium eloquens, cujus animus efficit iniquitatem; exercen<g ref="char:EOLhyphen"/>do by pocriſi &amp; proloquendo in Deum err orem exhaurien<g ref="char:EOLhyphen"/>do animam famelic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; potum ſitientis ſubtrahendo: &amp; te<g ref="char:EOLhyphen"/>nacis inſtrumenta mala dicentur, qui ſcelerat a conſilia init ad perdendum humiles ſermonibus falſitatis etiam quum e<g ref="char:EOLhyphen"/>gens eloquitur jus.</hi> I might multiply many more pla<g ref="char:EOLhyphen"/>ces, but the point is ſo cleare and obvious, that it needs not.</p>
+            <p>The reaſons of the point are theſe: Firſt,<label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>1</label> 
+               <note place="margin"> Epheſ. 2.3.</note> it is naturall to wicked men to doe wickedly: if men are not reſtrai<g ref="char:EOLhyphen"/>ned by an over-ruling power, they run into all manner
+<pb n="4" facs="tcp:115644:4"/>of wickedneſſe as the Horſe ruſheth into the battell.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="2"/>
+            <p>Secondly, wicked men doe wickedly, becauſe they love it, Pſal. 52.7. There is a ſutableneſſe between ſin and their ſoules, and ſo the acting of it is very eaſie to them, even the vileſt abominations that can be wrought, as murdering the Saints, idolatry, blaſphemy, and what ever elſe comes under the name of evill.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="3"/>
+            <p>Thirdly, the Divell doth inſtigate and ſtirre them up thereunto; he rules in their hearts, 2 Cor. 4.4. He car<g ref="char:EOLhyphen"/>ries them with all ſwiftneſſe and violence to accompliſh his owne will.</p>
+            <milestone type="tcpmilestone" unit="Use" n="1"/>
+            <p>The firſt uſe may ſerve to informe us, that it is no wonder to ſee wicked men follow their wicked cour<g ref="char:EOLhyphen"/>ſes ſo eagerly and ſo conſtantly as they doe: their owne hearts carry them on thereunto, and the Divell ſecon<g ref="char:EOLhyphen"/>ding them with his temptations, they are carried on ve<g ref="char:EOLhyphen"/>hemently, God alſo giving them up to their own wills, they can doe not otherwiſe. If you look into the Scriß<g ref="char:EOLhyphen"/>tures, you may finde wicked <hi>Cain</hi> killing <hi>Abel,</hi> a wic<g ref="char:EOLhyphen"/>ked <hi>Nimrod</hi> mightily hunting and perſecuting the Saints, and a wicked <hi>Saul,</hi> and many others doing the like.</p>
+            <p>And now you ſee wicked men enraged againſt God, his truth and his people, even a wicked army of Cava<g ref="char:EOLhyphen"/>liets, led forth by a wicked Prince, fighting againſt re<g ref="char:EOLhyphen"/>ligion, impriſoning and killing faithfull Miniſters, ſhed<g ref="char:EOLhyphen"/>ding the bloud of the Saints of God with all out-rage and cruelty. It is no wonder to ſee them ſo doing; all wicked men would doe the like if God ſhould not re<g ref="char:EOLhyphen"/>ſtraine them, they doe but what their own hearts carry them unto, God having given them up to their owne wills and affections: therefore thinke it not ſtrange, ſee<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:115644:4"/>they are carried by ſuch a power that they cannot reſiſt of themſelves.</p>
+            <milestone type="tcpmilestone" unit="Use" n="2"/>
+            <p>The ſecond uſe may bee a uſe of inſtruction, to teach every one to take notice of the naturall bent of his own heart, and where God hath wrought a change, to ac<g ref="char:EOLhyphen"/>knowledge the freeneſſe of his grace, and the mighti<g ref="char:EOLhyphen"/>neſſe of his power.</p>
+            <milestone type="tcpmilestone" unit="Use" n="3"/>
+            <p>The third uſe may bee to reach all wicked men that are carried on with ſuch violence in wicked wayes, to take notice by their actions what they themſelves are, e<g ref="char:EOLhyphen"/>ven wicked perſons, you are wicked, but you will not acknowledge your ſelves to be ſo; but looke upon your actions, and they will tell you to your faces, that you are wicked wretches.</p>
+            <p>But you will ſay, What actions?</p>
+            <p>I anſwer, your ſwearing, blaſpheming, drunkenneſſe, with other outrages, which your owne hearts tell you of. All you wicked Cavaliers, loook upon your curſed and diveliſh actions, and they will cry to you with a loud voyce, that you are a company of wicked wret<g ref="char:EOLhyphen"/>ches, riſen up againſt the Lord, and againſt his people, even company of wicked <hi>Doegs,</hi> to whom the Pro<g ref="char:EOLhyphen"/>phet ſpeakes, <hi>Why doe you boaſt your ſelves in evill?</hi>
+            </p>
+            <p>But you will ſay, our actions are not wicked, neither are we our ſelves ſo.</p>
+            <p>No: Are not your action; wicked? Then there were never wicked actions wrought in the world: take but a view of your actions. Is it not a wicked action to murder godly and faithfull Miniſters, and to impriſon them? Then <hi>Herods</hi> action was not wicked in impriſo<g ref="char:EOLhyphen"/>ning and killing <hi>Iohn</hi> the Baptiſt, not the Jewes in im<g ref="char:EOLhyphen"/>priſoning and killing the Apoſtles: but they are char<g ref="char:EOLhyphen"/>ged
+<pb n="6" facs="tcp:115644:5"/>upon them as wicked actions, even by God him<g ref="char:EOLhyphen"/>ſelfe, and ſo ſhall your actions be changed upon you; e<g ref="char:EOLhyphen"/>ven this of impriſoning and killing the Miniſters of God.</p>
+            <p>Again, what think you? Is it not an evill action to kill the Saints, and to ſhed their bloud that are as the apple of Gods eye, and the ſignet on his right hand, that are his precious ones, Eſay 43.4. of whom God hath ſaid, he wil contend with thoſe that contend with them? And yet theſe you kill and impriſon; nay, you aime at them above all others, Pſal. 37.14. <hi>Gladtum eduxerint impro<g ref="char:EOLhyphen"/>bi &amp; adduxerint arcum ſuum, ad dejiciendu pauperem &amp; egentem ad mact andum rectos via:</hi> here is a wicked crew charged not only with killing the godly in co<g ref="char:cmbAbbrStroke">̄</g>mon with others, but for aiming at them above all others: and is not this your practice? Doe not you bend your force moſt againſt them that are moſt godly? And yet, O yee wicked ones, you will not yeeld that your actions are wicked; but let your hearts ſpeak, and they will tell you, that your actions are wicked, and that <hi>Cain</hi>-like you ſeeke to kill the Saints, becauſe their workes are good, and your owne bad; and God will one day tell you ſo to your endleſſe woe if you repent not.</p>
+            <milestone type="tcpmilestone" unit="Objection"/>
+            <p>But you will ſay, you fight not againſt the godly, but againſt rebels and traitors that will not yeeld obedi<g ref="char:EOLhyphen"/>ence to their King.</p>
+            <milestone type="tcpmilestone" unit="Answer"/>
+            <p>To which I anſwer: Firſt, that they refuſe not to o<g ref="char:EOLhyphen"/>bey the King, ſo far as his commands agree with Gods, and more ready they are to obey him in ſuch things, then any of you which doe hate, and openly oppoſe all ſuch perſons, and things, and commands, as haue any ſtamp of God upon them.</p>
+            <pb n="7" facs="tcp:115644:5"/>
+            <p>Secondly, they doe not diſobey the King, but ſtand up in a defenſive way, to defend themſelves and their poſterity, from Popery, tyranny and ſlavery, which you labour to bring us all unto. Doe not ſome of you remember, how you gave the firſt onſet againſt the Par<g ref="char:EOLhyphen"/>liament, endeavouring to deſtroy that honorable Aſ<g ref="char:EOLhyphen"/>ſembly before they ever took up arms, or did any thing in a hoſtile way? And therefore your firſt riſing was not to ſuppreſſe diſobedient ſubjects, but to deſtroy ſuch as were obedient and loyall.</p>
+            <p>And both the Parliament, and all that ſtand up with them, doe what they doe in defence of the King, and that religion, and thoſe lawes which the King himſelfe is ſworne to maintaine; and therefore that cavill will no way free you, being you are wicked perſons, nor free your actions from being wicked actions.</p>
+            <milestone type="tcpmilestone" unit="Objection"/>
+            <p>But you may ſay, Have we ſhed more bloud then the Parliament, or impriſoned more then they? Wee may charge them with the ſame crimes that wee are charged withall.</p>
+            <milestone type="tcpmilestone" unit="Answer"/>
+            <p>I anſwer as before, they are neceſſitated to what they doe, in defence of themſelves, of religion and liberties. Beſides their aime is not to ſhed blood, their endevours have been, and ſtill are, for peace; but you are ſtill for warre and bloud-ſhed. Beſides all this, there is a great difference betwixt your ſhedding of bloud, and theirs: for they are exceeding tender and carefull of the faith<g ref="char:EOLhyphen"/>full Miniſters of God, and of his ſervants, and would, if it were poſſible, preſerve them above all other, from priſon and ſword: but your aime is altogether againſt ſuch whom you are pleaſed out of your diveliſh malice to call <hi>Round heads,</hi> which terme ſhewes what you are,
+<pb n="8" facs="tcp:115644:6"/>even ſuch whoſe tongues are ſet on fire of hell, which doe ſpeake worſt of thoſe of whom God ſpeakes beſt. The holy God loves holineſſe, and commands it, but you hate it and condemne it: you are contrary to God, and all his wayes, and yet in your opinion you are not a company of wicked wretches. But if all this will not convince you of your wickedneſſe, what thinke you of all your blaſphemies, and curſed oathes, which daily (<hi>Rabſhakeh</hi>-like) you belch out againſt God, ſaying with thoſe, Pſalm. 42. <hi>Vbi eſt Deus tuus?</hi>
+            </p>
+            <p>In a wod, doe but look upon the curſed practices of all the wicked wretches that ever you read or heard of, and ſee what villany was ever done by them to declare them to be wicked ones, that you are not guilty of, and then you will without doubt be of my minde, that you are a company of wicked ones indeed.</p>
+            <milestone type="tcpmilestone" unit="Use" n="4"/>
+            <p>And ſo I come to the fourth uſe, which is a uſe of ex<g ref="char:EOLhyphen"/>hortation, to all you that ſtand up thus wickedly againſt God, to ceaſe from all your curſed and wicked deſignes which you have ſo violently purſued ſo long. Goe no further on in your wicked wayes; heare what the Pro<g ref="char:EOLhyphen"/>phet <hi>David</hi> ſaith to you, Pſal. 75.5. O yee vain-glori<g ref="char:EOLhyphen"/>ous fooles, bee not ſo vain-gloriouſly fooliſh, and you that are wicked, lift not up your horne on high, and ſpeak not with a ſtiffe neck, march not ſo madly againſt God: for <hi>Iob</hi> ſaith: Never did any harden themſelves againſt him and proſper. So Pſal. 11. <hi>Depluet ſuper im<g ref="char:EOLhyphen"/>probos prunas ignem &amp; ſulphur, ventuſque procelloſiſsi<g ref="char:EOLhyphen"/>mus portio calicis corum futurus eſt.</hi> Therefore take heed, it is hard for you to kick againſt pricks. Acts 9.6. Then even thou, bloudy Prince <hi>Rupert</hi> and all thy company, ſhall finde one day, that all the threatnings of God are
+<pb n="9" facs="tcp:115644:6"/>againſt you, and that the way wherein you walke, is <hi>exoſus Deo,</hi> and you will ſpeed accordingly; which I will ſpeak of in its place.</p>
+            <p>And ſo I have done with the firſt point: I now come to a ſecond, which will ariſe from this word <hi>boaſting,</hi> or <hi>glorying,</hi> they not doe evill, but they alſo boaſt in it, it is their glory: whence the point is this:</p>
+            <milestone type="tcpmilestone" unit="Doctrine" n="2"/>
+            <p>That wicked men doe not onely doe wickedly, but alſo boaſt and glory in the doing of it. So ſaith <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> It is a paſtime to a foole to doe wickedly, Prov. 10.23. And again, Fools make a mock of ſin.</p>
+            <p>What are thoſe fooles but wicked men? for there is nothing properly folly but wickedneſſe. So the Prophet <hi>Hoſea</hi> tells us, they make the King glad with their wic<g ref="char:EOLhyphen"/>kedneſſe, and the Princes with their lies, Hoſea 7.3. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Surely they were firſt glad themſelves, and then they made others ſo too.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="1"/>
+            <p>The firſt reaſon is, becauſe all their joy depends up<g ref="char:EOLhyphen"/>on the ſatis faction of their wicked deſires: their wick<g ref="char:EOLhyphen"/>kedneſſe is the fountaine from which they fetch all their comforts. Now whatſoever a man makes the foun<g ref="char:EOLhyphen"/>taine and ſtore-houſe of his joy, the more that is ope<g ref="char:EOLhyphen"/>ned unto him, the more he doth rejoyce: the wicked have no other fountaine of joy, but the bringing about of their evill devices; and when they have ſucceſſe in them, then they moſt rejoyce.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="2"/>
+            <p>The ſecond reaſon is, becauſe when they do wickedly, they have what they would: and we know in a naturall way; every on rejoyceth when he hath what he would; wicked mens wills are ſetupon wickedneſſe, and when they have moſt opportunity to practiſe it, then they moſt rejoyce, becauſe their wills are fulfilled.</p>
+            <pb n="10" facs="tcp:115644:7"/>
+            <milestone type="tcpmilestone" unit="Reason" n="3"/>
+            <p>Thirdly, when wicked men are doing wickedneſſe, they are in their proper element, where they cannot chuſe but ſport themſelves, even as the fowls in the air, and the fiſhes in the ſea, and ſo every exeature elſe after its kinde.</p>
+            <milestone type="tcpmilestone" unit="Use" n="1"/>
+            <p>Firſt then, let us take notice how the ſonnes of men are bewitched by Satan and their own wicked hearts, to ſport themſelves in that which is their miſchief and un<g ref="char:EOLhyphen"/>doing, ſeeding their ſenſes with the delights of wicked<g ref="char:EOLhyphen"/>neſſe, and walking on merrily in the path that leads to the chambers of death, from whence there is no retur<g ref="char:EOLhyphen"/>ning.</p>
+            <milestone type="tcpmilestone" unit="Use" n="2"/>
+            <p>Let all wicked men take notice in what a woful eſtate they are in, whilſt they glory in their ſhame, as the A<g ref="char:EOLhyphen"/>poſtle ſaith, Phil. 3.17. Nay, in that which without re<g ref="char:EOLhyphen"/>pentance will hold them in everlaſting chaines of death and darkneſſe: For the ſubject matter of your joy, is nothing but your wickedneſſe, worſe then a thing of nought, as the Prophet ſpeaks, Amos 6.</p>
+            <p>And eſpecially you which do daily bring upon your ſelves blood-guiltineſſe, by plotting the death and un<g ref="char:EOLhyphen"/>doing of all that have any reſemblance of God in their words or actions, you take pleaſure in nothing but in unrighteouſneſſe, Rom. 1.21. in robbing, ſtealing, who<g ref="char:EOLhyphen"/>ring, and above all, killing the people of God when your Diveliſh pawes can faſten upon them, then you thinke you have cauſe to rejoyce more then ordinary; you are never ſo full of ſhoutings, as when your heats and hands are moſt full of theft and bloud ſhed; you make your ſelves drunk with bloud as with ſweet wine, and make joyfull acclamations at the accompliſhment of your moſt inhumane devites: there is nothing ſo de<g ref="char:EOLhyphen"/>lightfull
+<pb n="11" facs="tcp:115644:7"/>you, as that which is moſt hatefull to God and all good men. O let not my ſoule, not the ſoules of any that thinke to come to life, come into the ſe<g ref="char:EOLhyphen"/>crets of your rejoycing, which doe by your joy, your preſent wicked joy, work out your eternall ſorrow: for God in the midſt of all your curſed delights, laughes at you; for he ſees the day of your everlaſting downfall comming, that take up Armes againſt the Lord Jeſus Chriſt, his truth and people.</p>
+            <milestone type="tcpmilestone" unit="Use" n="3"/>
+            <p>To informe us what will deprive a wicked man of his joy, namely to deprive him of his wickedneſſe. And a<g ref="char:EOLhyphen"/>las! that cannot hold long it ſelf, it will weare you out, even your drunkenneſſe, your whoring, and the reſt of your wickedneſſe. It may be the ſword ſhall devoure you, there will be ere long the end of your wickedneſſe, or your end, or both, and then where will be your joy, when the matter and ground of your joy ſhall bee taken away? Nay, which is worſe, there will be a ſting ſting<g ref="char:EOLhyphen"/>ing in your ſoules to all eternity; which remembrance of your wicked pleaſures will dally renew, that you ſhal hever be able to withſtand it. Why then wilt thou let the refreſhments of thy ſoule depend upon ſo wofull a foundation as the ſatisfaction of thy wicked and beaſt<g ref="char:EOLhyphen"/>ly luſts, which can be but for a ſeaſon, Heb. 11.26. The fountaines of thy joy will quickly be drawne dry, and then all thy joyes will bid thee an eternal farewell; nay, it may be, before thou are aware of it, even ſuddenly all you curſed lighters againſt God, may bee met withall and deſtroied. However, it will not be long before the foundation of your joyes and delights (namely your ſpoiling of the Saints, and robbing of the Lords deare once) ſhall be taken away from you, and then your joyes
+<pb n="12" facs="tcp:115644:8"/>will periſh. And ſo I have done with this ſecond point, and come to the third, which will ariſe from the inter<g ref="char:EOLhyphen"/>rogation, <hi>Why doſt then boaſt thy ſelfe in evill?</hi> The point is this: That</p>
+            <milestone type="tcpmilestone" unit="Doctrine" n="3"/>
+            <p>Wicked men have no good reaſon to commit evill, nor to boaſt in it: ſinne is an unreaſonable thing, no man can lay downe any good reaſon for the defence of it, Pſal. 2.1. <hi>Quare tumultuantur gentes &amp; nationes medi<g ref="char:EOLhyphen"/>tantur inane?</hi> They can give no reaſon for what they doe: and therefore when our Lord Chriſt laid a charge of wickedneſſe upon him that had not on the wedding garment, he was even ſpeechleſſe, he could give no rea<g ref="char:EOLhyphen"/>ſon for the way he was in. But I will bee briefe in this point.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="1"/>
+            <p>The firſt reaſon is, becauſe God never commanded ſin, and nothing can bee reaſonable but what he com<g ref="char:EOLhyphen"/>mands; no, though it have a ſhew of good in it: who re<g ref="char:EOLhyphen"/>quired theſe things at you hands? Eſay 1.12.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="2"/>
+            <p>Secondly, becauſe God hath abſolutely forbidden ſin, therefore it is unreaſonable.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="3"/>
+            <p>Thirdly, becauſe it tends to the deſtruction of him that commits it, and there is no reaſon why any one ſhould deſtroy himſelfe; nor is there any reaſon why it ſhould be rejoiced or boaſted in, becauſe there is in eve<g ref="char:EOLhyphen"/>very ſin a kinde of poiſon that eats out all joy, and over<g ref="char:EOLhyphen"/>throwes all peace and comfort, and there can bee no cauſe of rejoycing in that which overthrowes and ſpoils our joy, nay, it is the cauſe of eternall woe and ſorrow.</p>
+            <milestone type="tcpmilestone" unit="Use" n="1"/>
+            <p>The firſt uſe may be a uſe of information to informe us, that every wicked man is an unreaſonable man, hee is not guided by reaſon, unleſſe it be reaſon fetcht from
+<pb n="13" facs="tcp:115644:8"/>beneath, even from the Divell or their owne darkned mindes, and carnall hearts, which are oppoſite to that divine reaſon by which we ſhould be guided in all our wayes. And the truth is, no man walkes ſafely any longer then he is guided by this divine and pure reaſon, namely God and his truth. Indeed man is a reaſonable creature, and indued with a reaſonable ſoule, the powers of which carry him to actions reaſonable, as they re<g ref="char:EOLhyphen"/>ſpect his outward being, and way of converſe amongſt men, ſo a wicked man may doe many actions in them<g ref="char:EOLhyphen"/>ſelves reaſonable; but in regard of the manner of them, not being guided in them and to them (as was ſaid be<g ref="char:EOLhyphen"/>fore) by that divine reaſon which ſhould guide every man in all his actions, they are againſt God, and ſo moſt unreaſonable. But I will not inſiſt upon his: for we are not here to ſhew, that an action in it ſelfe good, being done in an evill manner, may be evill to a man, the text ſpeakes here of actions every way evill, both materially and formally, and to doe ſuch actions is an unreaſonable thing, but more unreaſonable to rejoyce and boaſt in them.</p>
+            <milestone type="tcpmilestone" unit="Use" n="2"/>
+            <p>In the next place, this will lay a heavie charge of unreaſonable noſſe and ſpirituall madneſſe upon thoſe who, like <hi>Ahab,</hi> have ſold themſelves to work wicked<g ref="char:EOLhyphen"/>neſſe, that deviſe miſchiefe upon their beds, and when they come abroad, they practiſe it and tell it, that like <hi>Doeg</hi> murder the Miniſters and people of God. O yee unreaſonable ones, why doe you doe thus? O yee bloudy Prelates which have (not long ſince) ſhed the blood of many godly Miniſters and people, whipping ſome, ſtarving ſome, and ſtigmatizing others, nay, you have ſhed the bloud of ſouls by taking away the power<g ref="char:EOLhyphen"/>full
+<pb n="14" facs="tcp:115644:9"/>preaching of the Word from them, as much as is you lay. And now being by the force of a Parliament for the preſent reſtrained, you thirſt after the bloud of godly Miniſters and people, more then after wine: and now, whilſt your hands are bound, you ſend abroad your helliſh devices, which like an cating gangrene, have gone thorow the land; you muſt one day bee brought before the great Judge, who will demand a reaſon of you why you have done all theſe things, when you will not bee able to render a reaſon for the leaſt of you wicked wayes.</p>
+            <p>And all you roaring and revelling Cavaleers, why do you kill, ſteale, and follow ſuch vile and rebellious courſes? Can you tell why? What hath God done to you? Or what fault can you finde with his wayes, that you ſo ſtand up againſt him? You would have his true worſhip downe, and falſe and Popiſh worſhip let up. Why do you riſe now, and gather on heaps, to pull down and hinder that true ſpirltuall way of worſhip of the Lord Jeſus, which he himſelfe hath conſtituted by his apoſtles and Teachers in the primitive times? Sure you can give no reaſon for it. And why doe you kill the Saints, and impriſon them above all others? What have they done to you? Sure they have not hurt you. I know you have nothing to ſay unto them, unleſſe it be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in matters of their God, as thoſe wicked ones had a<g ref="char:EOLhyphen"/>gainſt <hi>Daniel.</hi>
+               <note place="margin">Daniel 6.</note> And I am ſure you will finde that but an unreaſonable reaſon, if you doe but confider it: if there be no reaſon for any thing that God commands not, as ſure there is not, then this your doings will prove un<g ref="char:EOLhyphen"/>reaſonable, for I am ſure God never commanded you to ſpoile his people, whom hee loves there all other:
+<pb n="15" facs="tcp:115644:9"/>therefore doe but conſider what you doe, and you will finde that all your actions in this bloody warre againſt the Saints of Jeſus Chriſt, have beene all this while, and ſtill are againſt the higheſt and pureſt reaſon, even againſt God himſelfe, the ſpring and fountaine of all good reaſon.</p>
+            <p>You moſt barbarouſly prophane the Lords day in buying and ſelling, playing and ſporting, and if you ſolemnly performe any ſervice to God it conſiſts in nothing for the moſt part, but reading a Popiſh Ser<g ref="char:EOLhyphen"/>vice booke, and ſurely God will aske you alſo why you doe this, when you ſhall never be able to anſwer him, but ſhall be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ritten dumb before him, though now you will not feare him, not regard his counſells to be gui<g ref="char:EOLhyphen"/>ded by them: and ſo I have dome with this point alſo, and with theſe words, <hi>Why be ſteſt thou thy ſelfe in miſ<g ref="char:EOLhyphen"/>chiefe.</hi>
+            </p>
+            <p>I now come to ſpeake of the wofull deſtiny of theſe wicked unreaſonable men, which is ſet before their and our eyes, in part of the fifth verſe, <hi>God ſhall deſtroy thee for eves.</hi> In which words, you may obſerve theſe two generall things:</p>
+            <p>Firſt, the certainty of the deſtruction of wicked men, They ſhall be deſtroyed.</p>
+            <p>Secondly, the irrecoverableneſſe of their condition, being once deſtroyed, It ſhall be for ever.</p>
+            <p>In the firſt, we may take notice of the perſon that ſhall undertake this worke, and that is one which can goe through with it, &amp; do it to purpoſe, even God himſelf.</p>
+            <p>Secondly, the manner of their overthrow, They ſhall be deſtroyed, which word hath a great force in it, and ſo I might make diviſions of the two generall things,
+<pb n="16" facs="tcp:115644:10"/>but I will handle them as they lye in the lumpe, be<g ref="char:EOLhyphen"/>cauſe I ſhall not have time to unfold every word ac<g ref="char:EOLhyphen"/>cording to the extent of it. And therefore I will fall firſt upon the firſt generall, the certainty of the de<g ref="char:EOLhyphen"/>ſtruction and overthrow of all wicked men, and bloody perſecutors, God ſhall deſtroy them; whence the point is this, <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>4</label> That all bloody perſecutors; and plotters, and workers of miſchieſe againſt the Saints and people of God ſhall certainly be deſtroyed, Pſal. 9.18. <hi>Retrea<g ref="char:EOLhyphen"/>gentur improbi ad ſepulcrum uſque omnes gentes oblita Dei.</hi> Pſal. 37.2. The Lord there doth encourage his people to a patient abiding the malice and miſchiefe of wicked men: for ſaith he, they ſhall be ſoone cut off as the graſſe, and wither as the green herbe; and ſo verſo 20. ſaith he, The wicked ſhall periſh, and the enemies of the Lord ſhall be as the fat of Lambes, they ſhall conſume into ſmoake: and ſo alſo, verſe 15. <hi>Glad<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> corum intrabit in cor corum, &amp; arcus corum confringen<g ref="char:EOLhyphen"/>tur:</hi> Here in all theſe expreſſions as you may ſee in the whole Pſalme, he aimes as at all wicked men, ſo eſpe<g ref="char:EOLhyphen"/>cially at ſuch as aime moſt at the ruine and overthrow of his people, they above all ſhall be met withall; the heat of Gods judgements ſhall melt them even as the fire melteth the wax, their proſperity ſhall vaniſh away even like ſmoak, and the very remembrance of all their wicked perſecuting the Saints, ſhall like a ſharpe ſword pierce their ſoules for ever.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="1"/>
+            <p>The firſt reaſon is, becauſe God hath decreed the deſtruction of ſuch. So <hi>Iude</hi> tells us, <hi>Iude</hi> 4. verſe, and Pſalme 33.11. <hi>Conſil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um vero Ichova in ſeculum con<g ref="char:EOLhyphen"/>ſiſtit, cogitationes animi ejus in at a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es ſingula<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o who can hinder what he hath decreed, all the world cannot doe
+<pb n="17" facs="tcp:115644:10"/>it. Have I ſaid it, and ſhall I not doe it, ſaith he by that wicked Prophet <hi>Balam,</hi> Numb. 23.18. therefore it muſt be ſo that you muſt be deſtroyed all the roote of you that ſtand up againſt God and his people.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="2"/>
+            <p>The ſecond reaſon why God will deſtroy them is, becauſe they are his enemies, Thoſe mine enemies, ſaith he, that would not that I ſhould reigne over them, bring them hither and ſlay them before me. Such as are ene<g ref="char:EOLhyphen"/>mies to Gods people, are enemies to God himſelfe, be<g ref="char:EOLhyphen"/>cauſe there is ſuch a neare relation betweene God and them, they are his Spouſe, his betroathed ones, Hoſ. 2.19. they are his children, 2 Cor. 6. ult. and therefore thoſe that fight againſt them, fight againſt him, their enemies are his enemies, and therefore hee will deſtroy them.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="3"/>
+            <p>Thirdly, God will deſtroy wicked men and bloudy perſecuters, to declare his juſtice. So the Apoſtle ſaith, Rom. 9.22. Thoſe that doe oppoſe him to his face, and blaſpheme his name, and doe that which hee hath forbidden, and will not be reformed, he will declare his juſtice upon them to their deſtruction: he will even teare them to pieces, and none ſhall deliver them, Pſal. 50.22.</p>
+            <milestone type="tcpmilestone" unit="Objection"/>
+            <p>But it will be demanded, who are theſe wicked men that ſhall be deſtroied?</p>
+            <milestone type="tcpmilestone" unit="Answer"/>
+            <p>I anſwer firſt in generall, that all may bee ſaid to be wicked men that have not intereſt in the Lord Jeſus, and all ſuch muſt be deſtroied. To ſuch hee will ſay at that great day, Depart from me yee wicked, yee work<g ref="char:EOLhyphen"/>ers of iniquity, I know you not, that is, I approve you not, you have no intereſt in me, you ſhall bee deſtroied,
+<pb n="18" facs="tcp:115644:11"/>you are workers of iniquity, Matth. 7.23.</p>
+            <milestone type="tcpmilestone" unit="Answer" n="2"/>
+            <p>But ſecondly, I anſwer more particularly, that this Text which I am now upon, doth not aime eſpecially at theſe, neither doe I aim at them in my diſcourſe; but eſpecially at ſuch as doe (as I may ſay) conſtitute them<g ref="char:EOLhyphen"/>ſelves in a poſture of open warre againſt God and his people.</p>
+            <p>You will ſay, Who are they?</p>
+            <p>I anſwer, they are the wicked Biſhops, and all the wicked Cavaliers which are now gathered together in<g ref="char:EOLhyphen"/>to an Army, under the command of the grand Captaine of wickedneſſe, the Divell, which like a Captaine goes about daily to ſee how many of the Saints of God hee can devour.</p>
+            <p>Firſt, I ſay, the Biſhops, becauſe I doe beleeve, that they have been the great incendiaries and blowers up of all this miſchiefe, partly by introducing ſo many baſe and wicked innovations in the worſhip of God, which godly Miniſters and godly Men could not endure: and partly by working out ſo many Monopolies and un<g ref="char:EOLhyphen"/>lawfull taxes upon the State, that men were not able to beare. And in the defect of the obſervation of their Canons and inventions, what miſeries were men brought into? They were perſecuted even to ſtrange Cities and Countries, kept in dungeons and darkneſſe, in hunger and ſolitarineſſe, ſpoiled of their goods and en<g ref="char:EOLhyphen"/>joyments; and what ever thoſe bloudy villaines could ſay or doe, was in a manner made law; ſo that your curſed and irregular wills, almoſt ruled the Land. How many godly Miniſters have you ſilenced? And the bloud of how many ſoules have you ſhad, O ye blood<g ref="char:EOLhyphen"/>guilty
+<pb n="19" facs="tcp:115644:11"/>wretches: therefore you are worthy to goe in the firſt rank of perſecuters, whoſe ſinnes are gone before hand to judgement, 1 Tim. 5.24. You have openly declared ſinnes before hand, and therefore ſurely the Lord aimes at you in ſpeciall, at at a generation whom he will deſtroy.</p>
+            <p>And the next to you are thoſe men whoſe hearts your curſed Canons have taken ſuch impreſſion upon, that they are carried out to practiſe that which you firſt be<g ref="char:EOLhyphen"/>gan: and ſurely your hands and hearts are ſtill in the buſineſſe, and many of them are held and led on in the worke by your ſubtile perſwaſions, and the force of your deceitful arguments, but this cannot excuſe them. For ſeeing they follow your wicked ſteps, they muſt alſo partake of your wofull deſtruction: ſo now I have told you who I meane by wicked and bloudy men, that muſt be deſtroyed, even the whole Army that ſtandeth up in this wicked warre: I ſay all, both head and taile, without repentance, muſt fall under the revenging hand of the Almighty God, and feele the weight of his juſt judgements.</p>
+            <milestone type="tcpmilestone" unit="Objection"/>
+            <p>But it will bee demanded who I meane by the faith<g ref="char:EOLhyphen"/>full Miniſters and faithfull people of God, whom I ſay are impriſoned, perſecuted, and killed?</p>
+            <milestone type="tcpmilestone" unit="Answer"/>
+            <p>I anſwer: I mean ſuch as the Scriptures ſet forth to us to be ſuch, even ſuch as are in their hearts and lives a holy people unto God, 1 Peter 2.9. You are a holy Nation, ſaith the Apoſtl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: and doe you not hate theſe, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and revile at theſe, even becauſe they are holy? Doe you not ſeeke to kill theſe? Your very ſoule <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you doe, and you doe it in de<g ref="char:EOLhyphen"/>ſpig<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God, becauſe it is againſt his expreſſe word,
+<pb n="20" facs="tcp:115644:12"/>who hath ſaid, <hi>Sancti eſtote: nam ego ſanctus ſum,</hi> 1 Pe<g ref="char:EOLhyphen"/>ter 1.16. And yet you would deſtroy them for their holineſſe: God commands them to bee holy, you de<g ref="char:EOLhyphen"/>ride them for it: whoſe word ſhall ſtand, Gods or yours? God ſaith they are a holy people, you ſay they are Round-heads, Sectaries and Schiſmatickes, and what you pleaſe. Theſe are the Saints, which as ſtrangers and Pilgrimes, <hi>Abſtineatis à carnis cupidita<g ref="char:EOLhyphen"/>tibus,</hi> 1. Peter 2.11. Such as deſire to walk with their God, though it bee in a way which men call Hereſie, Acts 24.14. Such as deſire to have, <hi>Conſcientiam ſine offenſa apud Deum, &amp; apu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> homines ſemper.</hi> Acts 24.16. Such as cannot, nor dare not, to follow the wayes of Popery, and other like courſes which the world will follow to ſave their liberties and outward eſtates. Such a one <hi>Moſes</hi> was, that forſooke the pleaſures of ſinne to follow his God, Hebrewes 11.26. Such were thoſe which you may read of at large in the ſame Chap<g ref="char:EOLhyphen"/>ter, that ſuffered with joy the ſpoiling of their goods for the Lord Jeſus ſake.</p>
+            <p>And ſo now I have told you who I mean by wicked men, and who I mean by the Saints of God.</p>
+            <p>Now I come to the uſe of the point that I delivered, namely, that wicked and bloudy perſecuters muſt be deſtroied.</p>
+            <milestone type="tcpmilestone" unit="Use" n="1"/>
+            <p>The firſt uſe is a uſe of inſtruction to the Saints that are perſecuted, to teach them to pitty the wicked, though they perſecuted them: for they muſt be deſtroi<g ref="char:EOLhyphen"/>ed, it will be miſery enough to them that God will de<g ref="char:EOLhyphen"/>ſtroy them. So did <hi>Stephen</hi> Acts 7. towards the end: <hi>Poſitis antem gentbus clamavit voce magna Domine ne ſtatuas ets hoc peceatum.</hi> So did our Lord and Maſter
+<pb n="21" facs="tcp:115644:12"/>Chriſt, Father forgive them, they know not what they doe: ſo let us doe when they lay their wicked hands upon our bodies, let us pitty their miſerable ſouls.</p>
+            <p>Secondly, let it teach us patience in all our ſufferings, becauſe they cannot be long, the workers of our ſor<g ref="char:EOLhyphen"/>rowes ſhall ſhortly be deſtroyed.</p>
+            <milestone type="tcpmilestone" unit="Use" n="2"/>
+            <p>The ſecond uſe is a uſe of terror to the wicked them<g ref="char:EOLhyphen"/>ſelves that muſt bee deſtroied: Take notice of your doome and miſery, your future deſtruction is more cer<g ref="char:EOLhyphen"/>taine then your preſent enjoyments, your ſorrowes will come certainly and wonderfully upon you, and you ſhall not eſcape his hand. All your ſtrength and policie ſhall not bee able to deliver you. It is likely you may thinke with <hi>Senacherib,</hi> Iſa. 36. that your great multi<g ref="char:EOLhyphen"/>tude will be a means to preſerve you; but alas! if you had all the men in the whole Kingdome together on your ſide, this would not doe it, when God ſhall once ariſe to fight againſt you. Know you not that hee ſlew by his Angel in one night, an hundred fourſcore and five thouſand, Eſay 37.30. And are not you an Army much like unto his, that doe reproach and blaſpheme the living God? Have you not uttered the ſame lan<g ref="char:EOLhyphen"/>guage that ſome of them did to the ſervants of <hi>Heze<g ref="char:EOLhyphen"/>kiah,</hi> ſaying, Your God whom you ſerve, ſhall not bee able to deliver you out of our hands. And as the wic<g ref="char:EOLhyphen"/>ked Jewes to Chriſt, Where is the God in whom you prayed? let him deliver if hee will have him. Now what is become of theſe? Are they not deſtroied? And ſhall you eſcape? No, no, it cannot bee, you ſhall not eſcape, when the time is once come that God will have you down, even the ſtars in their comſe ſhall fight againſt you, as they did againſt <hi>Siſera,</hi> Judg. 5.</p>
+            <pb n="22" facs="tcp:115644:13"/>
+            <milestone type="tcpmilestone" unit="Objection"/>
+            <p>But you will ſay, We have ſtrong horſes, and they may be a means to ſave us.</p>
+            <milestone type="tcpmilestone" unit="Answer"/>
+            <p>I anſwer, No: they cannot neither, Pſal. 33.17. <hi>Men<g ref="char:EOLhyphen"/>dax eſt equus ad ſalutem, &amp; multitudine roboris ſui nonli<g ref="char:EOLhyphen"/>berat ſeſſorem.</hi> A horſe is a lie: For ſo it is to bee read.</p>
+            <p>How a lie?</p>
+            <p>Why? Becauſe ſtrong horſes doe in regard of out<g ref="char:EOLhyphen"/>ward ſtrength, promiſe a great deale of help in time of warre, and whoſoever ſhall depend upon this ſtrength, as upon a promiſe, will finde it but a lye; and ſo ſhall all you Cavaliers finde, not onely horſes, but all the outward ſtrength upon which you doe depend, it will prove but a lie.</p>
+            <milestone type="tcpmilestone" unit="Objection"/>
+            <p>But you may ſay, Wee are Princes, and Lords, and great men, our means and titles will beare us out.</p>
+            <milestone type="tcpmilestone" unit="Answer"/>
+            <p>I anſwer, No: this cannot; for thoſe great Princes we read of, Ezek. 32.24.25.26. The Princes of Elam, Meſhek and Tubal, they being great Princes, while they were alive and in proſperity, they cauſed a terrour in the land of the living, even among the people of God; yet now they lie with the uncircumciſed, which are gone downe to hell with their weapons of warre, and they have laid their ſwords under their heads, and which is worſt of all to them, and ſhall be to you, their iniquities are upon their bones, and your iniquities ſhall bee upon your bones; and this will bee intolerable. They notwithſtanding their Princely power, were o<g ref="char:EOLhyphen"/>vercome, and ſo ſhall you be. You may now walke in the pride and ſtubbornneſſe of your owne hearts, ſay<g ref="char:EOLhyphen"/>ing, Wee have gotten us hornes by our ſtrength: but theſe your hornes of ſtrength ſhall bee broken. God
+<pb n="23" facs="tcp:115644:13"/>himſelfe will fight againſt you with an out-ſtretched arme, and none can turn him back.</p>
+            <milestone type="tcpmilestone" unit="Objection"/>
+            <p>But you will ſay, Stay a while, wee are not deſtroyed, yet, it may be yet that you Round-heads may be made quake by us firſt.</p>
+            <milestone type="tcpmilestone" unit="Answer"/>
+            <p>I anſwer, it may bee indeed that God may ſuffer you to doe more miſchiefe before he deſtroy you: hee may ſuffer you to doe the Scullians office, to ſcoure his cho<g ref="char:EOLhyphen"/>ſen veſſels, he may make rods of you, as hee did of <hi>Cy<g ref="char:EOLhyphen"/>rus,</hi> to whip his people; and then into the fire of his judgement you goe without remedy. And what then will you, nay, what can you doe, though you cloath your ſelves with ſcarlet, and deck you with ornaments of gold, yet all this will not helpe you? Jerem. 4.30. Your terrible lookes will not fright him that ſits upon a glorious throne, and ſendeth forth his deſtroying meſ<g ref="char:EOLhyphen"/>ſengers when hee pleaſeth: Nor will the glittering of your ſpeares and weapons of warre daunt him; neither will hee bee allured by the coſtlineſſe of your apparrell (though it be golden and ſhining) to forbeare you: But he will come againſt you with the force of his power; he now ſpeakes againſt you every day, and you will not heare his voyce, he bids you take heed of medling with his people, for whom hee hath ingaged himſelfe. Yea, he ſpeakes to you by ſignes from heaven, foretel<g ref="char:EOLhyphen"/>ling your future deſtruction, which in its ſeaſon ſhall come upon you: therefore give glory to the Lord God of Iſrael, before he ſend darkneſſe, and your feet ſtum<g ref="char:EOLhyphen"/>ble upon the dark mountaines, and while you looke for light, he turne it into the ſhadow of death, and make it as groſſe darkneſſe, Jerem. 13.16. light being here ta<g ref="char:EOLhyphen"/>ken for proſperity, joy and deliverance, it ſhall be turned
+<pb n="24" facs="tcp:115644:14"/>into ſorrow, trouble and deſtruction. Wherefore be not proud, but heare and regard the word of the great God, which now ſounds in your eares, that ſo, if it bee poſſible, you may returne and eſcape that terrible de<g ref="char:EOLhyphen"/>ſtruction which will be ſo tedious to you: But if you will ſtill perſiſt in your courſes of fighting againſt God, and ſeeking to ſet up Popery, and laying heavie bur<g ref="char:EOLhyphen"/>dens upon the conſciences of godly men, then <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what God ſaith further to you, Eſay 8.9. <hi>Conſoci<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ini, ô populi, &amp; conterimini, auremque prabete quotquot eſtis in locis longinquis terra: accengimini &amp; conterimini, accin<g ref="char:EOLhyphen"/>gimini &amp; conterimini.</hi> This is ſpoken to you, even to you the whole Army of Cavaliers. This will bee your end though you gather your ſelves; nay, though you gird your ſelves with all the ſtrength you can, yet you ſhall be broken in pieces. And ſo becauſe time calls upon me, I muſt have done with the firſt generall, namely, the certainty of the deſtruction of wicked men. I come now briefly to ſpeake of the laſt, namely, the ir<g ref="char:EOLhyphen"/>recoverableneſſe of their condition, being once de<g ref="char:EOLhyphen"/>ſtroied. Whence the point is this: That</p>
+            <milestone type="tcpmilestone" unit="Doctrine" n="5"/>
+            <p>The condition of wicked men, being once deſtroied, is irrecoverable, they can returne to their place no more, nor never ſee light, but muſt to all eternity en<g ref="char:EOLhyphen"/>dure that which is unſufferable, 2 Theſſal. 1.9. There the Apoſtle ſaith, that they ſhall be puniſhed with <hi>eter<g ref="char:EOLhyphen"/>ni exitii,</hi> eternall deſtruction. And <hi>Mark.</hi> 9.16. our Sa<g ref="char:EOLhyphen"/>viour ſaith, that the ſire of their deſtruction is never quenched. So ſaith the Prophet <hi>David,</hi> ſpeaking of the wicked, they ſhall ariſe, ſaith he, to everlaſting ſhame and contempt Dan. 12.2. Rev. 20.10.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="1"/>
+            <p>And our Saviour himſelfe tells us the reaſon of it, in
+<pb n="25" facs="tcp:115644:14"/>that parable, Luke 16.26. There is a great gulſe <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed between them and life, which they cannot paſſe nor recover themſelves from their miſerable condition.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="2"/>
+            <p>The ſecond reaſon is, becauſe they ſhall bee held by the almighty power of God in that deſtroyed conditi<g ref="char:EOLhyphen"/>on; there ſhall be, as it were, freſh blaſts of his power<g ref="char:EOLhyphen"/>full wrath to kindle the flame of their torment, Iſai. 30. ult. <hi>Flasus Ichova quaſiterreute Sulphuris, incendit eam.</hi> The force of this flame, and the power of this breath, ſhall for ever over over whelme them, that they ſhall never recover themſelves.</p>
+            <milestone type="tcpmilestone" unit="Reason" n="3"/>
+            <p>I might draw another reaſon from the manner of their deſtruction: It ſhall bee a deſtruction that makes them uncapable of recovery, even like the breaking of a Potters veſſell, Pſalm 2.9. which you know can never be made whole againe.</p>
+            <milestone type="tcpmilestone" unit="Use" n="1"/>
+            <p>Let every one then take notice of the wofull eſtate of wicked men; when ever the day of their deſtruction comes, it comes for ever. Indeed it is true, <hi>Mors com<g ref="char:EOLhyphen"/>munis onunibus,</hi> death is common to all, but there is a <hi>ſecondamors,</hi> a ſecond death, which binds up all its pri<g ref="char:EOLhyphen"/>ſoners to all eternity. Do but think then what all wicked men will get at laſt when they come to end their dayes, when all their fore-paſt happineſſe will bee ſwallowed up with the thoughts of their endleſſe miſery: What good wil it doe them, like the rich glutton, Luke 16. to fare deliciouſly every day, and to glory in their doing miſchiefe, when at laſt they muſt bee deſtroyed for ever.</p>
+            <milestone type="tcpmilestone" unit="Use" n="2"/>
+            <p>Let all the wicked crew of blaſphemous wretches ſee, if they can comfort themſelves with hopes of obtai<g ref="char:EOLhyphen"/>ning their ownedeſires, their deſire is, that God would
+<pb n="26" facs="tcp:115644:15"/>damne them, and that he would ram them into hell, that they may returne no more. See, I ſay, if you can comfort your ſelves with theſe hopes, you ſhall have your deſires without all queſtion, you ſhall bee ſo ſtopt, as it were, into the gulfe, that you ſhall be ſure never to get out. Can you cheere your hearts with it? Oh no! rather tremble at it, and bee afraid thus wickedly to o<g ref="char:EOLhyphen"/>pen your mouthes any more: You now glory in your firing houſes, and doing all themiſchiefe your divelliſh hearts can invent; but you little thinke (what ever you ſay) of dwelling with everlaſting burnings, Iſai. 33.14. which will (not withſtanding all your pomp and wicked boaſting in your preſent evill courſes) bee your wofull condition ere long, when you will ourſe the day that e<g ref="char:EOLhyphen"/>ver you ſet your hearts, and tongues, and hands, to fight againſt God, and againſt his people.</p>
+            <div type="part">
+               <head>An anſwer to an objection that might bee made againſt this precedent Diſcourſe.</head>
+               <p>NAmely, that whereas I change the Prelats and Ca<g ref="char:EOLhyphen"/>valiers with ſuch vile and wicked actions as do de<g ref="char:EOLhyphen"/>clare them to be wicked perſons, and ſuch as God will certainly deſtroy for their wickedneſſe: it may bee ſaid, that the other Army which is for the Parliament, is as vile and wicked as they, and ſo all that I have ſaid, may be as ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly applied to them.</p>
+               <p>I anſwer, That it is true indeed, that ſome of the Par<g ref="char:EOLhyphen"/>liaments Army are as had as the Cavaliers, and ſuch as
+<pb n="27" facs="tcp:115644:15"/>are a very ſhame to the cauſe they pretend to ſtand for &amp; it were to be wiſhed they were all caſheer'd, although there were but <hi>Gideons</hi> army left behinde. But yet all this doth not prove the army to be as bad as the other: ſome of the Cavaliers themſelves being judges: for ſome of them, have ſaid, that they did fight againſt the Round-heads, becauſe they ſerved God better then themſelves. And beſides, it is very well knowne to all that will take notice of any thing, that there bee many hundreds, if not thouſands in the Parliaments army, that doe ſtand up for the true worſhip of their God, which the whole army of the Cavaliers doe oppoſe: and whereas you ſhall hardly finde one in all the Army of the Cavaliers, that will not blaſpheme the name of God by curſed oathes, you ſhall find many of the other that doe feare an oath. And many other things I could ſay to this purpoſe, but this may ſuffice all that are not bent to quarrelling. <hi>Fare-well.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
